@@ -7,7 +7,7 @@ After taking a failed website I made in 2014, turning it into a WordPress theme 
 
 Detroit takes the Best City Guide theme TreeHouse made and the Theme I created. I changed some of the colors, added some more items and code to make Detroit.
 
-I'm currently using this theme for http://www.qwick.info
+I'm currently using this theme for http://www.rthomas.xyz
 
 --------
 
