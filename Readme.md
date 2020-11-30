@@ -12,4 +12,7 @@ I'm currently using this theme for http://www.rthomas.xyz
 --------
 
 2019 Jan 06 - Project uploaded
+
 2019 Jan 21 - Added a full-width page, plus added the .full class to make the full-width page work.
+
+2020 Nov 30 - Added the single.php, added post navigation on for index.php and removed the colored bar off of the main-footer selector on style.css
