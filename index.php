@@ -18,6 +18,7 @@
                     <p><?php _e( 'Sorry, no posts matched your critera.' ); ?></p>
                     
                 <?php endif; ?>
+				<p><?php posts_nav_link(); ?></p>
 				<hr>
 
 			</div><!--/.primary-->
