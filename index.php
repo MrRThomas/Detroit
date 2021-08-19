@@ -7,9 +7,9 @@
             <!-- Start the Loop. -->
                 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
                 <hr>
-                    <h2><?php the_title(); ?></h2>
+                    <h2><a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a></h2>
 					<p class="date-author">Posted: <?php the_date(); ?> by <?php the_author(); ?></p>
-                    <p><?php the_content(); ?></p>
+                    <p><?php the_excerpt(); ?></p>
                     
 					<?php endwhile; ?> 
 
