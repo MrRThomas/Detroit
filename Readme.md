@@ -18,3 +18,5 @@ I'm currently using this theme for http://www.rthomas.xyz
 2020 Nov 30 - Added the single.php, added post navigation on for index.php and removed the colored bar off of the main-footer selector on style.css
 
 2021 Aug 19 - Changed the index.php to show a summary of posts opposed to a full post. People like summaries instead of the full deal.
+
+2021 Sep 28 - Added date and author code for single.php. Should've done that from the beginning.
