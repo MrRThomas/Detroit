@@ -6,6 +6,7 @@
                 
                 <hr>
                     <h2><?php the_title(); ?></h2>
+		    <p class="date-author">Posted: <?php the_date(); ?> by <?php the_author(); ?></p>
                     <p><?php the_content(); ?></p>
                     
                 <?php 
